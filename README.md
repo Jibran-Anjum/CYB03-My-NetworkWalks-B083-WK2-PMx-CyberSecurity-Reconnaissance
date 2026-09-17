@@ -1,8 +1,6 @@
 <div align="center">
 
-# Project: Cyber Security Lab Environment Setup
-
-**Building and setting up an isolated virtual lab environment for penetration testing and ethical hacking practices.**
+# Network Footprinting & Passive OSINT Collection Labs
 
 </div>
 
@@ -23,7 +21,6 @@
 
 ---
 
-# Network Footprinting & Passive OSINT Collection Labs
 
 Welcome to the **Network Footprinting & Passive OSINT Collection** repository. This repository serves as a centralized documentation hub for hands-on cybersecurity labs focused on the reconnaissance phase of security testing. 
 
